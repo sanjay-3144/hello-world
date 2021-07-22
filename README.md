@@ -1,2 +1,6 @@
 # hello-world
-This is the test project I made.
+
+Hi Humans!
+
+This is the hello world.
+
